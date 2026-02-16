@@ -34,6 +34,25 @@
 - **🦁 AnimalJamGuide** - Game Guide for National Geographic's Animal Jam
 - **🌍 IMVUGuide** - Game Guide for IMVU (similar to Second Life)
 
+### 📚 University Repos
+
+<details>
+<summary><b>CS480 - Intro To AI</b></summary>
+
+- 🎮 [Othello Game](https://github.com/skyelogic/cs480-othellogame)
+- 🔍 [Local Search](https://github.com/skyelogic/cs480-localsearch)
+- 🧠 [Informed Search](https://github.com/skyelogic/cs480-informedsearch)
+- 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)
+
+</details>
+
+<details>
+<summary><b>CS432 - Web Science</b></summary>
+
+- 🕷️ [Web Crawler](link-here)
+
+</details>
+
 ---
 
 ## GitHub Activity
