@@ -17,7 +17,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-> Deep in my projects – building platforms at a ludicrous speed. This time is the most exciting time in a long time.
+> Deep in my projects – Using agents to build platforms at a ludicrous speed. Automating every instance of monotony to relieve humans of a sufferable existence. This time is the most exciting time in a long time.
 
 🎬 **[xvseconds.com](http://xvseconds.com)**  (closed source) - *In the future, everyone will have 15 seconds of fame.*
 
