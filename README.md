@@ -65,8 +65,13 @@
 ### Philosophy
     "Hang in there." - It's going to be a bumpy ride. Hope your brought a helmet.
 
-Random Facts (drop down menu)
-- Chess champion on my Submarine (USS 765)
-- Founder of the 5 pillars of health
-- Gym enthusiasist (when not working)
-- Runs agents as a Life Coach to stay tasked
+<details>
+<summary>⚡ Random Facts</summary>
+
+- Chess champion on USS 765 (Submarine)
+- Founder of the 5 Pillars of Health
+- Gym enthusiast (when not working)
+- Uses AI agents as a Life Coach
+- Formerly ran YouTube channel with 40K+ subscribers
+
+</details>
