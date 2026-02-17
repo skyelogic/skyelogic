@@ -49,7 +49,7 @@
 <details>
 <summary><b>CS432 - Web Science</b></summary>
 
-- 🕷️ [Web Crawler](link-here)
+- 🕷️ [URI Collector](https://github.com/skyelogic/cs432-uri-collector)
 
 </details>
 
