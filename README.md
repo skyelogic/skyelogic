@@ -39,10 +39,11 @@
 <details>
 <summary><b>CS480 - Intro To AI</b></summary>
 
-- 🎮 [Othello Game](https://github.com/skyelogic/cs480-othellogame)
-- 🔍 [Local Search](https://github.com/skyelogic/cs480-localsearch)
-- 🧠 [Informed Search](https://github.com/skyelogic/cs480-informedsearch)
-- 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)
+- 🎮 [Othello Game](https://github.com/skyelogic/cs480-othellogame)  
+- 🔍 [Local Search](https://github.com/skyelogic/cs480-localsearch)  
+- 🧠 [Informed Search](https://github.com/skyelogic/cs480-informedsearch)  
+- 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)  
+- 🧊 [Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/tree/main)  
 
 </details>
 
