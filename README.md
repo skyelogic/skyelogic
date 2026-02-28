@@ -82,7 +82,7 @@
 ---
 
 ### Philosophy
-    "Hang in there." - It's going to be a bumpy ride. Hope your brought a helmet.
+    "Hang in there."
 
 <details>
 <summary>⚡ Random Facts</summary>
