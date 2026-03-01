@@ -24,7 +24,7 @@
 ## Current Projects
 - **🌐 [DonnelGarner.com](http://donnelgarner.com)** - The ongoing work that never ends.  
 - **🧠 [ViaPist](http://www.viapist.com)** - Your emotionally intelligent virtual therapist.  
-- **✍️ [QuillCheck](http://www.quillcheck.com)** - Is this URL human or machine?  
+- **🪶 [QuillCheck](http://www.quillcheck.com)** - Is this URL human or machine?  
 
 ### Legacy Work
 - **📻 ourWorldFM** - An online radio station that streamed 24/7
@@ -52,6 +52,7 @@
 <summary><b>CS432 - Web Science</b></summary>
 
 - 🕷️ [URI Collector](https://github.com/skyelogic/cs432-uri-collector)
+- 🪶 [Quill Check](https://github.com/skyelogic/quillcheck)
 
 </details>
 
