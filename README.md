@@ -44,7 +44,8 @@
 - 🔍 [Local Search](https://github.com/skyelogic/cs480-localsearch)  
 - 🧠 [Informed Search](https://github.com/skyelogic/cs480-informedsearch)  
 - 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)  
-- 🧊 [Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/tree/main)  
+- 🧊 [Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/tree/main)
+- 🧠 [Draw2Digit - NeuroDigits](https://github.com/skyelogic/cs480-digitrecognition)
 
 </details>
 
