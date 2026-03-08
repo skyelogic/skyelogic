@@ -44,17 +44,18 @@
 - 🎮 [Othello Game](https://github.com/skyelogic/cs480-othellogame)  
 - 🔍 [Local Search](https://github.com/skyelogic/cs480-localsearch)  
 - 🧠 [Informed Search](https://github.com/skyelogic/cs480-informedsearch)  
-- 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)  
-- 🧊 [Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/tree/main)
-- 🧠 [Draw2Digit - NeuroDigits](https://github.com/skyelogic/cs480-digitrecognition)
+- 🎲 [Uninformed Search](https://github.com/skyelogic/cs480-24puzzle)   
+- 🧊 [Sudoku Solver](https://github.com/skyelogic/cs480-sudoku/tree/main)  
+- 🧠 [Draw2Digit - NeuroDigits](https://github.com/skyelogic/cs480-digitrecognition)  
+- ⚙️ [ML Classifier Report](https://donnelgarner.com/projects/CS480/final-report/)
 
 </details>
 
 <details>
 <summary><b>CS432 - Web Science</b></summary>
 
-- 🕷️ [URI Collector](https://github.com/skyelogic/cs432-uri-collector)
-- 🪶 [Quill Check](https://github.com/skyelogic/quillcheck)
+- 🕷️ [URI Collector](https://github.com/skyelogic/cs432-uri-collector)  
+- 🪶 [Quill Check](https://github.com/skyelogic/quillcheck)  
 
 </details>
 
