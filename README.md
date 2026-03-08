@@ -24,7 +24,8 @@
 ## Current Projects
 - **🌐 [DonnelGarner.com](http://donnelgarner.com)** - The ongoing work that never ends.  
 - **🧠 [ViaPist](http://www.viapist.com)** - Your emotionally intelligent virtual therapist.  
-- **🪶 [QuillCheck](http://www.quillcheck.com)** - Is this URL human or machine?  
+- **🪶 [QuillCheck](http://www.quillcheck.com)** - Is this URL human or machine?
+- **🍊 [RipeForInflation](http://www.ripeforinflation.com)** - Because eating well shouldn't cost this much.
 
 ### Legacy Work
 - **📻 ourWorldFM** - An online radio station that streamed 24/7
