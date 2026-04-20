@@ -1,6 +1,6 @@
 # Hello World, I'm Don 👋
 
-📍 Phoenix ↔ Norfolk ↔ Toronto | 🤖 Solopreneur | 🚀 Ex-Founder Of Many Things  
+📍 Scottsdale ↔ Virginia Beach ↔ Toronto | 🤖 Solopreneur | 🚀 Ex-Founder Of Many Things  
 
 [![Follow](https://img.shields.io/github/followers/skyelogic?label=Follow&style=flat)](https://github.com/skyelogic)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
